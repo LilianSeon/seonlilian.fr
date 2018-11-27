@@ -22,26 +22,6 @@
    <priority>0.9</priority>
  </url>
  <url>
-  <loc>http://www.seonlilian.fr/images/sport.jpg</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.1</priority>
- </url>
- <url>
-  <loc>http://www.seonlilian.fr/images/lune.jpg</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.1</priority>
- </url>
- <url>
-  <loc>http://www.seonlilian.fr/images/language.jpg</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.3</priority>
- </url>
- <url>
-  <loc>http://www.seonlilian.fr/images/musique.jpg</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.1</priority>
- </url>
- <url>
   <loc>http://www.seonlilian.fr/CV_DEV_Seon_Lilian.pdf</loc>
   <changefreq>weekly</changefreq>
   <priority>0.9</priority>
@@ -49,6 +29,6 @@
  <url>
   <loc>http://www.seonlilian.fr/veille_technologique_vr.php</loc>
   <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
+  <priority>0.9</priority>
  </url>
 </urlset>

@@ -1,0 +1,13 @@
+2017-02-28 15:32:30 u84350186 0aB8Aa-1ciipK2bpY-0003VR |< REMOTE=78.232.97.183 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2017-02-28 15:32:30 u84350186 0aB8Aa-1ciipK2bpY-0003VR <= S=dh@lo.fr SZ=564 D=0 SID=617623617
+2017-02-28 15:32:30 u84350186 0aB8Aa-1ciipK2bpY-0003VR => eragnylilian@live.fr msmtp.kundenserver.de[172.19.35.7] 250 Message 0LwBkQ-1cFYNU2u0k-0183E2 accepted by mreue007.kundenserver.de
+2017-02-28 15:32:30 u84350186 0ZhJfP-1bwVxd44up-00nMlk |< REMOTE=78.232.97.183 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2017-02-28 15:32:30 u84350186 0ZhJfP-1bwVxd44up-00nMlk <= S=dh@lo.fr SZ=564 D=0 SID=617623617
+2017-02-28 15:32:31 u84350186 0ZhJfP-1bwVxd44up-00nMlk => eragnylilian@live.fr msmtp.kundenserver.de[172.19.35.7] 250 Message 0LgjC6-1bvh970AVC-00oJuw accepted by mreue006.kundenserver.de
+2017-02-28 15:39:15 u84350186 0ZRicc-1cGeCX2EBe-0170Lc |< REMOTE=78.232.97.183 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2017-02-28 15:39:15 u84350186 0ZRicc-1cGeCX2EBe-0170Lc <= S=qsd@live.fra SZ=570 D=0 SID=617623617
+2017-02-28 15:39:15 u84350186 0ZRicc-1cGeCX2EBe-0170Lc WW transaction error after mail command: msmtp.kundenserver.de[172.19.35.7] 421 invalid sender domain \'live.fra\' (misconfigured dns?) http://postmaster.1and1.com/error-messages/#invalidsenderdomain
+2017-02-28 15:39:15 u84350186 0ZRicc-1cGeCX2EBe-0170Lc EE could not send mail
+2017-02-28 15:40:33 u84350186 0aFp8b-1cVIgK1x5N-00DWIC |< REMOTE=78.232.97.183 SCRIPT=/index.php -- /usr/sbin/sendmail -t -i
+2017-02-28 15:40:33 u84350186 0aFp8b-1cVIgK1x5N-00DWIC <= S=ss@live.fr SZ=565 D=0 SID=617623617
+2017-02-28 15:40:33 u84350186 0aFp8b-1cVIgK1x5N-00DWIC => eragnylilian@live.fr msmtp.kundenserver.de[172.19.35.7] 250 Message 0MPvIk-1cetCl2Azq-0052uP accepted by mreue006.kundenserver.de

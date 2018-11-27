@@ -1,0 +1,40 @@
+body{
+	background-color: #77aadd;
+	margin:0% 0%;
+    padding : 0.6em;
+    font-family:"Trebuchet MS",Verdana,Geneva,Arial,Helvetica,sans-serif;
+    font-size:0.8em;
+}
+
+#page{
+	background-color:white;
+  width : 65%;
+  margin : auto ;
+  border : 0.2em solid black;
+  padding : 0.1em;
+}
+#entete{
+  background-color:rgb(72,198,236);
+	color : #980101;
+	border: solid 0.1em #980101;
+	height: 154px;
+	padding: 0em;
+	border-collapse: separate;
+}
+#logo{
+	margin-top: -5em;
+	width: 27.5%;
+}
+#texteHeader{
+	margin-left: 10em;
+}
+
+#pied{
+  clear : both;
+	border : solid 0.2em #980101;
+	margin-top : 1em;
+	padding:0.4em;
+	padding: 0.2em;
+	border-collapse: separate;
+	text-align: center;
+}

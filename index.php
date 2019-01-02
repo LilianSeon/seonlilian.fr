@@ -11,6 +11,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="icon" type="image/PNG" href="/images/dev3.png" />
 		<title>Lilian Séon - Portfolio - BTS SIO</title>
 		<meta charset="utf-8" />
+		<meta name="description" content="Etudiant BAC+3 en Bachelor RPI recherche une alternance dans le développement web pour 2 ans, Élaboration et mise en œuvre un projet IT. Langage de programation : PHP, JavaScript. SQL, CSS " />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script>-->
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -40,7 +41,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			}
 		</style>
 	</head>
-	<body>
+	<body id="body">
 		<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KHHX4G"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -165,7 +166,8 @@ include_once('include/contact.php');
 			</article>
 		<div id="footer">
 			<ul class="icons">
-				<li><a href="https://twitter.com/LilianSeon" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+			<li><a href="https://www.linkedin.com/in/lilian-s%C3%A9on-b88053120/" class="icon fa-linkedin" target="_blank"><span class="label">Linkedin</span></a></li>
+				<li><a href="https://twitter.com/LilianSeon" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 			</ul>
 			<div class="copyright">
 				<ul class="menu">
@@ -173,7 +175,7 @@ include_once('include/contact.php');
 				</ul>
 			</div>
 		</div>
-
+		<a href="#body"><button onclick="topFunction()" id="toTop"  class="toTop" title="Go to top">Top &#8593;</button></a>
 		<!-- Scripts -->
 		<script src="assets/js/jquery.min.js"></script>
 		<script src="assets/js/jquery.scrolly.min.js"></script>
